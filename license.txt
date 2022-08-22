@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dreamcast vmu
+* source:	https://sketchfab.com/3d-models/dreamcast-vmu-37cecdef437e4f72ba5a0e9dafdf6bd5
+* author:	rkd.zone (https://sketchfab.com/rkd.zone)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dreamcast vmu" (https://sketchfab.com/3d-models/dreamcast-vmu-37cecdef437e4f72ba5a0e9dafdf6bd5) by rkd.zone (https://sketchfab.com/rkd.zone) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
